@@ -9,7 +9,7 @@ export default function HeroSection({ socials = [], cv = "" }: IHeroSectionProps
       <div className="container flex flex-col items-center px-5 py-24 mx-auto md:flex-row">
         <div className="flex flex-col items-center mb-16 text-center lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 md:items-start md:text-left md:mb-0">
           <h1 className="mb-4 text-3xl font-local title-font sm:text-4xl">
-            Hi, I'm Yassett J. Ynfante
+            hi i m jc 
           </h1>
           <p className="mb-8 leading-relaxed">Js FullStack Developer</p>
           <div className="flex justify-center gap-6">
